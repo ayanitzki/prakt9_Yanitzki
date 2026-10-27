@@ -1,0 +1,3 @@
+﻿  prakt9_Yanitzki.cpp
+C:\Yanitzki\prakt9_Yanitzki\prakt9_Yanitzki\prakt9_Yanitzki.cpp(73,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  prakt9_Yanitzki.vcxproj -> C:\Yanitzki\prakt9_Yanitzki\x64\Debug\prakt9_Yanitzki.exe
